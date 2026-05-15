@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlmodel
+python-jose[cryptography]
+passlib[bcrypt]
+bcrypt==4.0.1
